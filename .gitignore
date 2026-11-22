@@ -45,6 +45,8 @@ test-results/
 *.err
 
 # Python cache
+.venv/
+venv/
 __pycache__/
 **/__pycache__/
 *.py[cod]

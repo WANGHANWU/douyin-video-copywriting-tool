@@ -1,4 +1,5 @@
 opencv-python
 rapidocr_onnxruntime
 faster-whisper
+av==16.0.1
 yt-dlp
